@@ -3,6 +3,8 @@
 header_pages:
   - index.md
   - about.md
+  - contact.md
+  - links.md
 
 footer: 'follow me on <a href="https://twitter.com/BaRRaKudaRain">twitter</a>'
 

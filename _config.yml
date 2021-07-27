@@ -6,7 +6,7 @@ header_pages:
   - contact.md
   - links.md
 
-footer: 'follow me on <a href="https://twitter.com/BaRRaKudaRain">twitter</a>'
+footer: 'follow me on <a href="https://twitter.com/BaRRaKudaRain">Twitter</a> and <a href="https://www.instagram.com/barrakudarain_a.k.a_nm/">Instagram</a>'
 
 style: dark # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)

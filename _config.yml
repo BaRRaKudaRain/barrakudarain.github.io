@@ -2,10 +2,12 @@
 
 header_pages:
   - index.md
+  - mal-gal.md
+  - nft-shop.md
+  - links.md
   - about.md
   - contact.md
-  - links.md
-  - nft-shop.md
+  
 
 footer: '【ツ】'
 

@@ -1,7 +1,7 @@
 ---
-title: /nft-shop
+title: /shop
 layout: page
-permalink: /nft-shop
+permalink: /shop
 ---
 
 # Shop my photos as NFT tokens

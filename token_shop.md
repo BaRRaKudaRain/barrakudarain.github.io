@@ -4,4 +4,4 @@ layout: page
 permalink: /token_shop
 ---
 
-# Shop my photos as NFT tokens
+# Token Shop

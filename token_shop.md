@@ -6,7 +6,8 @@ permalink: /token_shop
 
 # Token Shop
 
-## Mailbox - Series of 13 tokens
+## Mailbox
+Series of 13 tokens
 
 Description: *It's just a mailbox somwhere in the street. Did you expected something more?*
 

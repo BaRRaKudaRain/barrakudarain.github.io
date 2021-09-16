@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/barrakudarain
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://barrakudarain.github.com
+  * I am barrakudarain (https://keybase.io/barrakudarain) on keybase.
+  * I have a public key ASA2cHvtdOfKUaHb7pRPnYikY_y-JYt3CfQquzYXcp45Lwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ecab9784bf582824150a2e276a5c401cb56a72f03815eb13e506f34991635b100a",
+      "host": "keybase.io",
+      "kid": "012036707bed74e7ca51a1dbee944f9d88a463fcbe258b7709f42abb3617729e392f0a",
+      "uid": "d44badc2ef10a1b20207daf8fd8cde19",
+      "username": "barrakudarain"
+    },
+    "merkle_root": {
+      "ctime": 1631794375,
+      "hash": "364b98575aa7ec6f16af79fb1afd0e6280f5405cce7c69f0d7a209eed00540828ac2e1bfdf63ca3dfd63387d8d1cdf17239a606987ab4447182cac23d013bf26",
+      "hash_meta": "c91b63899b9ce3c16c39b2decd87666d82d6bc8dc58826472dc91ccfcf140ab1",
+      "seqno": 20780624
+    },
+    "service": {
+      "entropy": "UTJgs0pEA5iCxallo4xa6e6H",
+      "hostname": "barrakudarain.github.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1631794392,
+  "expire_in": 504576000,
+  "prev": "42c567927604418ac264b5fe51f5cc8ba2a816e8a23cb919070ea084981d7eca",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNnB77XTnylGh2+6UT52IpGP8viWLdwn0Krs2F3KeOS8Kp3BheWxvYWTESpcCGcQgQsVnknYEQYrCZLX+UfXMi6KoFuiiPLkZBw6ghJgdfsrEIG6mu36ObUU82lvXpVL86Dk3lV2MJH5D+aOR3CP8o9TrAgHCo3NpZ8RAx8NVt/E5P3MqFqHAFbMqIV7J2i7yzXAQxPPeBjBfIU/Y5I9RSdXbKQfZp+gO8l52bhVZYN+qK240N4YNvpHDBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKHTpg/wYMQOfY/l9TmEqtUW8NwfpAVl8xu6hvxLqZj5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/barrakudarain
+
+==================================================================

@@ -1,7 +1,7 @@
 ---
-title: /retro_gamllery
+title: /games
 layout: page
-permalink: /retro_gamllery
+permalink: /games
 ---
 
 # Games

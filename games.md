@@ -4,4 +4,9 @@ layout: page
 permalink: /games
 ---
 
-# Games
+# NES
+
+# SNES
+
+# Gameboy / Gameboy Color / Gameboy Advance
+

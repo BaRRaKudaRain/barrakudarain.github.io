@@ -2,8 +2,8 @@
 
 header_pages:
   - index.md
-  - malware_gallery.md
-  - retro_gallery.md
+  - malware.md
+  - games.md
   - token_shop.md
   - links.md
   - about.md

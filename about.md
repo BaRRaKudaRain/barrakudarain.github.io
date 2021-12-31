@@ -13,4 +13,4 @@ Surfing the Web in search of interesting material to study and watching lots of 
 Kali Linux pentesting tools, Python, Ruby, C/C++, VB and C# programming languages, discovered a whole world of modern technologies. 
 About a year ago, I found out about reverse engineering and malware analysis. Though I'm still in progress mastering all these competencies on a senior level. 
 On top of all the above I would like to mention that in my free from university and work time I'm taking some photos and uploading it to my Instagram account.
-If you like some of my photos, you can afford them as NFT tokens on Mintable, so if you want to look, visit the shop page.
+If you like some of my photos, you can afford them as NFT tokens on OpenSea, so if you want to look, visit the shop page.
